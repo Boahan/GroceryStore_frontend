@@ -1,6 +1,4 @@
-# GroceryStore_frontend
-
-## Personal Portfolio
+## Grocery Store Frontend
 
 This is a grocery store frontend.
 
