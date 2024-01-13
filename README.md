@@ -52,4 +52,4 @@ If you would like to contact me, you can reach me at shaswatgusain1@gmail.com.
 
 ### Copyright
 
-Copyright &copy; 2023 Shaswat Gusain.
+Copyright &copy; 2024 Shaswat Gusain.
